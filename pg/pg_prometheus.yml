@@ -1,0 +1,7 @@
+data_source:
+  host: localhost
+  port: 5432
+  user: prometheus
+  password: prometheus
+  database: prometheus
+
